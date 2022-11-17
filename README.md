@@ -18,7 +18,7 @@
 ## Prerequisites
 - JDK(LTS versions e.g. 8 or 11)
 - Gradle
-Set jdk and gradle path as environment variable
+- Set jdk and gradle path as environment variable
 
 ## Test Output
 ![Screenshot 2022-11-17 111215](https://user-images.githubusercontent.com/82231014/202368697-5aab0354-98bb-4435-8cd6-19a14bc4203b.png)
